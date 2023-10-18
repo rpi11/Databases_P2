@@ -1,0 +1,51 @@
+name,industry,sector,state,founded,revenue_22_23_USD_e9,market_cap_USD_e12,code,incomeTax_22_23_USD_e9,emp_num
+apple inc.,technology,consumer electronics,california,1976,387.53,2.52,aapl,18.314,164000
+microsoft corporation,technology,software infrastructure,washington,1975,204.09,2.037,msft,15.139,221000
+alphabet (google),technology,software infrastructure,california,1998,282.83,1.35,goog,11.356,190234
+amazon,technology,software application,washington,1994,513.98,1.03,amzn,-3.217,1541000
+nvidia corporation,technology,semiconductors,california,1993,26.97,0.653,nvda,0.189,22473
+tesla,technology,software infrastructure,texas,2003,81.46,0.625,tsla,1.132,127855
+meta platforms,technology,software infrastructure,california,2004,116.6,0.524,meta,5.619,86482
+broadcom inc.,technology,semiconductors,california,1961,34.41,0.266,avgo,0.939,20000
+oracle corporation,technology,software infrastructure,texas,1977,46.07,0.236,orcl,0.932,143000
+cisco systems inc.,technology,communication equipments,california,1984,53.16,0.208,csco,2.665,83300
+salesforce inc.,technology,software application,california,1999,31.35,0.189,crm,0.452,73541
+adobe inc.,technology,software infrastructure,california,1982,17.6,0.172,adbe,1.252,29239
+texas instruments inc.,technology,semiconductors,texas,1930,20.02,0.162,txn,1.283,33000
+advanced micro devices (amd) inc.,technology,semiconductors,california,1969,23.6,0.155,amd,-0.122,25000
+qualcomm inc.,technology,semiconductors,california,1985,42.95,0.138,qcom,2.012,51000
+netflix,technology,software application,california,1997,31.61,0.136,nflx,0.772,12800
+intel corporation,technology,semiconductors,california,1968,63.05,0.118,intc,-0.249,131900
+intuit inc.,technology,software application,california,1983,13.68,0.118,intu,0.476,17300
+ibm corporation,technology,it services,new york,1911,60.52,0.113,ibm,-0.626,345000
+applied materials inc.,technology,semiconductors,california,1967,26.25,0.102,amat,1.074,33000
+booking holdings,technology,software application,connecticut,1996,17.09,0.097,bkng,0.865,20700
+analog devices inc.,technology,semiconductors,massachusetts,1965,12.57,0.095,adi,0.35,24450
+servicenow inc.,technology,software application,california,2004,7.24,0.09,now,0.074,20433
+automatic data processing,technology,software application,new jersey,1949,16.67,0.09,adp,0.855,60000
+paypal holdings inc.,technology,software infrastructure,california,1998,27.51,0.087,pypl,0.947,29900
+airbnb,technology,software application,california,2008,8.39,0.078,abnb,0.096,6132
+fiserv inc.,technology,it services,wisconsin,1984,17.73,0.071,fisv,0.551,44000
+lam research corporation,technology,semiconductors,california,1980,19.04,0.069,lrcx,0.588,18700
+uber technologies inc.,technology,software application,california,2009,31.87,0.066,uber,-0.181,32500
+micron technology,technology,semiconductors,idaho,1978,27.15,0.064,mu,0.888,49000
+equinix,technology,it services,california,1998,7.26,0.064,eqix,0.125,11451
+activision blizzard,technology,software application,california,2008,7.52,0.063,atvi,0.231,13000
+palo alto networks inc.,technology,software infrastructure,california,2005,6.15,0.059,panw,0.06,12561
+synopsys inc.,technology,software infrastructure,california,1986,5.17,0.057,snps,0.137,19000
+cadence design systems inc.,technology,software application,california,1988,3.56,0.057,cdns,0.196,9300
+kla corporation,technology,semiconductors,california,1997,10.48,0.053,klac,0.167,14000
+arista networks inc.,technology,computer hardware,california,2004,4.38,0.052,anet,0.229,2993
+vmware inc.,technology,software infrastructure,california,1998,13.34,0.051,vmw,0.265,37500
+workday inc.,technology,software application,california,2005,6.21,0.049,wday,0.107,17522
+fortinet inc.,technology,software infrastructure,california,2000,4.41,0.049,ftnt,0.031,11508
+block inc.,technology,software infrastructure,california,2009,17.53,0.047,sq,-0.012,8521
+snowflake inc.,technology,software application,montana,2012,2.06,0.046,snow,0.003,4991
+roper technologies,technology,electronic components,florida,1890,5.61,0.046,rop,0.296,19300
+microchip technology inc.,technology,semiconductors,arizona,1989,8.05,0.045,mchp,0.197,21000
+autodesk inc.,technology,software application,california,1982,5.0,0.045,adsk,0.068,12600
+globalfoundries,technology,semiconductors,new york,2009,8.1,0.038,gfs,0.086,14600
+iqvia holdings,technology,software application,north carolina,1982,14.41,0.037,iqv,0.26,85000
+marvell technology inc.,technology,semiconductors,california,1995,5.91,0.035,mrvl,0.249,6695
+dell technologies inc.,technology,computer hardware,texas,1984,102.3,0.028,dell,0.981,133000
+hp inc.,technology,computer hardware,california,1939,59.78,0.028,hpq,1.238,51000
